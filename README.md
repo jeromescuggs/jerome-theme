@@ -1,4 +1,4 @@
-![jrmnl][theme.jpg]
+![terminal du j'rome](https://raw.githubusercontent.com/jeromescuggs/jerome-theme/master/theme.jpg)
 
 ## zshrome
 
